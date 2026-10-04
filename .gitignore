@@ -8,6 +8,10 @@ dist/
 build/
 out/
 
+# Local reference / design junk that is not part of the app runtime
+UI Images
+valnora UI reference Images/
+
 # Environment files
 .env
 .env.local
