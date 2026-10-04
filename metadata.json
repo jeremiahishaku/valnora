@@ -1,0 +1,6 @@
+{
+  "name": "Razorbill by Valnora",
+  "description": "Official responsive website for Razorbill by Valnora.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
