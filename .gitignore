@@ -3,29 +3,15 @@ node_modules/
 .pnp
 .pnp.js
 
-# Package manager lock files
-package-lock.json
-yarn.lock
-bun.lock
-
-# Production build
+# Production build output
 dist/
 build/
 out/
 
-# Environment variables
+# Environment files
 .env
 .env.local
 .env.*.local
-
-# IDE & Editor
-.vscode/
-.idea/
-*.swp
-*.swo
-*~
-.DS_Store
-*.iml
 
 # Logs
 logs/
@@ -34,9 +20,16 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-# Testing
+# Coverage
 coverage/
 .nyc_output/
 
-# OS
+# IDE / editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# OS files
 Thumbs.db
